@@ -38,8 +38,7 @@ jobs:
         run:  sudo mv /home/ubuntu/ezeshas/_work/WebApp/WebApp/dist /var/www/
        
 
-          
-     
+            
 
       
 
